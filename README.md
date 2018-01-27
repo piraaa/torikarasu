@@ -7,8 +7,7 @@ Handwriting recognition. "鳥" and "烏".
 
 
 ## 実験結果
-　あとで書く予定ぷり！
- 
+
 ```
 Read feature data. The Shape:(2, 200, 196)
 
