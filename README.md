@@ -1,8 +1,6 @@
 # torikarasu
 Handwriting recognition. "鳥" and "烏".
 
-**特別演習課題**
-
 ## Fisherの線形判別分析
 記事を書きました -> [フィッシャーの線形判別分析法](https://qiita.com/pira/items/4c84399671be2cb598e4)
 
